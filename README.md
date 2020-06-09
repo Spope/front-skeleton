@@ -1,4 +1,4 @@
-#Personal Front Skeleton
+# Personal Front Skeleton
 
 This skeleton use
  - uhtml
@@ -7,7 +7,7 @@ This skeleton use
 
 Due to parcel HMR vim should be set to `:set backupcopy=yes` to detect file change
 
-##Usage
+## Usage
 
 To start dev builds :
 

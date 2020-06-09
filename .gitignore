@@ -1,0 +1,4 @@
+*.swp
+.cache/
+dist/
+node_modules/

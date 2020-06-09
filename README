@@ -1,9 +1,0 @@
-Personal Front Skeletong
-==
-
-This skeleton use
- - uhtml
- - parcel
- - less
-
-Due to parcel HMR vim should be set to `:set backupcopy=yes` to detect file change

@@ -1,7 +1,7 @@
 # Personal Front Skeleton
 
 This skeleton use
- - uhtml
+ - @spope/glucose
  - parcel
  - less
 

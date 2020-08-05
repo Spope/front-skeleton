@@ -1,5 +1,10 @@
-import {html, render} from 'uhtml';
+import {Component, html, render} from '@spope/glucose';
 
-export default () => {
-    render(document.body, html`<h1>Ready to build things</h1>`);
-};
+class TestComponent extends Component {
+    renderComponent(){
+        render(this, html`<p>Ready to build things`);
+    }
+}
+customElements.define('test-component', TestComponent);
+
+export default TestComponent;
